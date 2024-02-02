@@ -1,0 +1,23 @@
+{
+  "name": "docker-101",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavlife06/docker-101.git"
+  },
+  "author": "lavjibadshah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavlife06/docker-101/issues"
+  },
+  "homepage": "https://github.com/lavlife06/docker-101#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
